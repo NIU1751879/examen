@@ -1,0 +1,16 @@
+Fecha,Cuenta,Descripción,Importe,Tipo,Saldo
+2023-01-01,Cuenta1,Compra en supermercado,-50.00,Gasto,950.00
+2023-01-02,Cuenta2,Depósito en efectivo,200.00,Ingreso,1200.00
+2023-01-03,Cuenta1,Pago de servicios,-100.00,Gasto,850.00
+2023-01-04,Cuenta3,Transferencia recibida,150.00,Ingreso,650.00
+2023-01-05,Cuenta2,Compra en línea,-30.00,Gasto,1170.00
+2023-01-06,Cuenta1,Depósito en efectivo,300.00,Ingreso,1150.00
+2023-01-07,Cuenta3,Pago de alquiler,-500.00,Gasto,150.00
+2023-01-08,Cuenta2,Compra de gasolina,-40.00,Gasto,1130.00
+2023-01-09,Cuenta1,Pago de tarjeta de crédito,-200.00,Gasto,950.00
+2023-01-10,Cuenta3,Depósito en efectivo,100.00,Ingreso,250.00
+2023-01-11,Cuenta1,Intereses ganados,10.00,Ingreso,960.00
+2023-01-12,Cuenta2,Retiro en cajero,-100.00,Gasto,1030.00
+2023-01-13,Cuenta3,Compra de acciones,-200.00,Inversión,50.00
+2023-01-14,Cuenta1,Venta de acciones,150.00,Ingreso,1110.00
+2023-01-15,Cuenta2,Transferencia enviada,-50.00,Gasto,980.00
